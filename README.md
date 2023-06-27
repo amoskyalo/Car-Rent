@@ -33,7 +33,8 @@ To run the Car Rental App locally on your development machine, follow these step
 
 ## Contributing
 
-Contributions to the Car Rental App project are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request.
+Contributions to the Car Rental App project are welcome! 
+First, you can check all open issues and try to solve them. If you encounter any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request.
 
 ## Contact
 If you have any questions, feedback, or inquiries about the Car Rental App, please contact me at amoskyalo927@gmail.com.
