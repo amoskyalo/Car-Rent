@@ -1,6 +1,12 @@
 # Car Rental App
 
 ![Screenshot 2023-06-27 185112](https://github.com/amoskyalo/Car-Rent/assets/91586973/f65c49ff-7157-4648-9643-e8473733e10c)
+![Screenshot 2023-06-27 185249](https://github.com/amoskyalo/Car-Rent/assets/91586973/80b4baf6-50c2-4916-92b3-c397068b9657)
+![Screenshot 2023-06-27 185319](https://github.com/amoskyalo/Car-Rent/assets/91586973/873f4681-afff-4536-b287-68ad2f5205dd)
+![Screenshot 2023-06-27 185357](https://github.com/amoskyalo/Car-Rent/assets/91586973/4bb71b62-1a1c-442b-9c3e-9a05dce2627c)
+![Screenshot 2023-06-27 185432](https://github.com/amoskyalo/Car-Rent/assets/91586973/0b44c35f-7b96-4903-9ad1-9a444ddef50e)
+![Screenshot 2023-06-27 185517](https://github.com/amoskyalo/Car-Rent/assets/91586973/06043ae1-bd0e-47ba-9ea6-6e05ea369d97)
+
 
 Welcome to the Car Rental App repository! This is a mobile application built using React Native, Sanity.io, and Socket.io. The app allows users to browse and rent cars, chat with other users and car renters, and explore various settings and search options.
 
